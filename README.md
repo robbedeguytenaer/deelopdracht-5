@@ -15,6 +15,10 @@ Het doel van deze hiërarchische taakanalyse is om de optimalisaties te identifi
 
 In dit deel van het project is uitsluitend gebruikgemaakt van een hiërarchische taakanalyse als methode. Voor het materiaal hebben we het prototype gebruikt om de verschillende stappen zelf uit te proberen en te evalueren.
 
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/taakanalyse.png?raw=true"width="100%">
+</p>
+
 ### Resultaten
 
 We hebben de interacties van de gebruiker met het product verdeeld in vier fasen: begin van het spel, spelen van het spel, einde van het spel, en na gebruik. Hierbij zijn we begonnen met het definiëren van de hoofdtaken en hebben deze verder onderverdeeld in een of meerdere subtaken. Bij de subtaken hebben we enkele varianten opgesomd om hieruit de beste te kiezen.
@@ -40,18 +44,88 @@ Deze bevindingen onderstrepen het belang van eenvoudige en efficiënte ontwerpen
 
 
 ## Gebruikerstest (n = 4)
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+
+Het doel van dit onderzoek is om de interacties met de Kode Hat (de helm) te optimaliseren door middel van testen met personen uit de doelgroep. We gebruiken hiervoor ons huidige prototype om te evalueren welke aspecten van de interacties verbeterd kunnen worden.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+
+Voor de test zullen de testpersonen gebruikmaken van het huidige prototype van de helm, bestaande uit de volgende componenten:
+
+- Een helm gemaakt van schuim met een thermogevormde buitenkant
+- Een kinriem om de helm vast te maken aan het hoofd
+- Een opklikbare lamp
+- Twee knoppen voor de bediening van het spel
+- Een infraroodlamp aan de voorkant
+- Interne bedrading
+- Een gemarkeerde aan/uit-knop aan de rechter zijkant van de helm
+
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/helm%20deelopdracht5.png?raw=true"width="30%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/prototype%20deelopdracht%205.png?raw=true"width="30%">
+</p>
+  
+De testpersonen voeren verschillende interacties uit met het prototype en beoordelen deze achteraf. Aan het begin van de test leggen we de werking van het prototype niet uit. We geven de testpersonen het prototype en laten hen raden wat dit product is (vraag 1). Indien nodig corrigeren wij (Robbe en Kai) de antwoorden. Vervolgens leggen we de functie van de Kode Hat uit en laten de testpersonen raden naar de functie van de verschillende componenten (vraag 2). We noteren welke functies duidelijk zijn en welke verkeerd worden opgevat.
+De interacties die de testpersonen uitvoeren zijn als volgt:
+
+1. De helm aanzetten
+2. De helm aandoen en aanspannen
+3. Lopen met de helm op
+4. De lamp opklikken
+5. De 'laser' activeren met de drukknoppen
+6. Alle voorgaande handelingen direct achter elkaar uitvoeren
+
+Voorafgaand aan deze interacties werd de testpersonen gevraagd om op de vraag "Wat is dit?" te antwoorden, om inzicht te krijgen in hoe de testpersonen het project zonder uitleg zien.
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+Eerst en vooral hebben we het resultaat van vraag 1, "Wat is dit?":
+
+| Naam (Leeftijd) | Antwoord|
+|---:|:---:|
+| Lenne (7)|Een helm met een lamp op.|
+| Wiebe (12)|Een helm, een grote lamp, twee uitsteeksels, een mikker. |
+| Jutta (8)|Een helm met grote lamp op.|
+| Finn (10)|Een legerhelm met een lamp op.|
+
+Na het beantwoorden van deze vraag hebben de testpersonen gewerkt met de helm, met de volgende resultaten:
+
+|Interactie|Lenne (7)|Wiebe (12)|Jutta (8)|Finn (10)|
+|:---|:---:|:---:|:---:|:---:|
+|De helm aandoen en aanspannen|OK, hulp nodig bij aanspannen strap|OK|OK|OK, hulp nodig bij aanspannen strap|
+|Lopen met de helm| Helm valt te groot uit, trekt scheef|OK|Helm is te groot|Helm is te groot|
+|Lamp opklikken|OK|OK, maar had eerst draairichting fout|OK, maar had eerst draairichting fout|OK, maar had eerst draairichting fout |
+|‘Laser’ (lampje vooraan) doen branden met drukknoppen|OK|OK|OK|OK|
+|Helm ‘aanzetten’|OK|OK|OK|OK|
+|Alle voorgaande direct achter elkaar|OK, maar duurt redelijk lang|OK|OK, maar duurt redelijk lang|OK|
+
+Door de testpersonen het product te laten gebruiken, hebben we waardevolle informatie verkregen. Er bleek dat er nog te veel stappen waren voordat ze aan het spel konden beginnen. Bovendien was er een probleem met het rondlopen, waarbij de helm los op het hoofd zat, wat niet de bedoeling is. De testpersonen hadden ook vaak moeite met de draairichting van de lamp. Daarom zal het handiger zijn om de draairichting voor het vastklikken van de lamp om te draaien.Na deze test hebben we alle data nog eens geanalyseerd om ervoor te zorgen dat we alleen de nodige componenten toevoegen aan het finale prototype en om ervoor te zorgen dat het een aangenaam product wordt voor de gebruiker.
+Op basis van de verkregen feedback zijn de volgende optimalisaties doorgevoerd:
+|Interactie|Optimalisatie|
+|:---|:---|
+|Helm 'aanzetten'|/|
+|Lamp opklikken| Draairichting veranderen|
+|De helm aandoen en aanspannen|/|
+|Lopen met de helm| Verstelsysteem toevoegen binnenin|
+|'Laser' doen branden met drukknoppen|/|
+|Alle voorgaande direct achter elkaar uitvoeren|Geen aan/uit-knop, helm moet aangaan bij opdraaien lamp|
+
+Na het opstellen van deze optimalisaties zijn we begonnen met het maken van het finale prototype om de verkregen feedback in ons product te integreren. Meer informatie over deze test is te vinden in de bijlage bij deelopdracht 5.
+
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/gebruikerstest5.png?raw=true"width="25%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/gebruikerstest4.png?raw=true"width="25%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/gebruikerstest1.png?raw=true"width="25%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/gebruikerstest.png?raw=true"width="20%">
+</p>
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
-## Kritische reflectie
-Max. 500 woorden
+De gebruikerstest van het Kode Hat prototype leverde cruciale inzichten op voor het optimaliseren van het eindproduct. Testpersonen van verschillende leeftijden gaven waardevolle feedback, waardoor we verbeteringen konden aanbrengen zoals een verstelbaar systeem binnenin de helm, geen aanknop gebruiken maar enlkel de lamp erop draaien en het omkeren van de draairichting van de opklikbare lamp.
+Deze test benadrukte het belang van praktische evaluaties in real-world scenario's. De verzamelde feedback was essentieel voor het verhogen van de gebruiksvriendelijkheid en het comfort van de Kode Hat, wat de tevredenheid van de eindgebruikers aanzienlijk zal verhogen.
+De implicatie van deze test is dat vroege en iteratieve prototyping essentieel is voor het creëren van een product dat voldoet aan de behoeften van de gebruikers. Door rekening te houden met de feedback van kinderen van verschillende leeftijden, hebben we een inclusiever en breder inzetbaar product ontwikkeld. Dit verhoogt de potentiële impact van de Kode Hat, wat bijdraagt aan het bevorderen van actieve speeltijd voor kinderen.
 
-## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+## Bijlagen
+- [Protocol deelopdracht 5](https://docs.google.com/document/d/1fgB8VYCal6uE3o-gAK7DwDt2R0Mz8X1aroE3ilAAm1A/edit?usp=sharing)
+- [Rapportering deelopdracht 5](https://docs.google.com/document/d/1HJS21ecrxbC2bSFbPqKRamhcGeSUiUfCmxfvarC7DX4/edit?usp=sharing)
