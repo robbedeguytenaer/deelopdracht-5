@@ -1,9 +1,10 @@
 # deelopdracht 5: develop 3
-*Omschrijving van je concept in 1 zin* 
-
-*KampKode: Robbe de Guytenaer; Kai Cherchye*
 
 ## Onderzoeksvragen
+
+- Welke interacties kunnen er geoptimaliseerd worden?
+- Wat kan er nog aangepast worden aan het product voor de gebruiker een betere gebruikservaring te geven?
+- Verfijnen van de oplossing
 
 ## Hiërarchische taakanalyse
 
