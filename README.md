@@ -2,9 +2,11 @@
 
 ## Onderzoeksvragen
 
-- Welke interacties kunnen er geoptimaliseerd worden?
-- Wat kan er nog aangepast worden aan het product voor de gebruiker een betere gebruikservaring te geven?
-- Verfijnen van de oplossing
+### Onderzoeksvragen
+
+- Welke interacties kunnen geoptimaliseerd worden?
+- Welke aanpassingen kunnen worden gedaan om de gebruikservaring te verbeteren?
+- Wat zijn alle stappen die de gebruiker neemt bij het gebruik van de helm?
 
 ## Hiërarchische taakanalyse
 
