@@ -65,9 +65,10 @@ Voor de test zullen de testpersonen gebruikmaken van het huidige prototype van d
 - Een gemarkeerde aan/uit-knop aan de rechter zijkant van de helm
 
 <p align ="center">
-<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/helm%20deelopdracht5.png?raw=true"width="30%">
-<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/prototype%20deelopdracht%205.png?raw=true"width="30%">
-<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/IMG_5408.JPG?raw=true"width="30%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/helm%20deelopdracht5.png?raw=true"width="23%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/prototype%20deelopdracht%205.png?raw=true"width="23%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/IMG_5416.JPG?raw=true"width="23%">
+<img src="https://github.com/robbedeguytenaer/deelopdracht-5/blob/main/IMG_5424.JPG?raw=true"width="23%">
 </p>
   
 De testpersonen voeren verschillende interacties uit met het prototype en beoordelen deze achteraf. Aan het begin van de test leggen we de werking van het prototype niet uit. We geven de testpersonen het prototype en laten hen raden wat dit product is (vraag 1). Indien nodig corrigeren wij (Robbe en Kai) de antwoorden. Vervolgens leggen we de functie van de Kode Hat uit en laten de testpersonen raden naar de functie van de verschillende componenten (vraag 2). We noteren welke functies duidelijk zijn en welke verkeerd worden opgevat.
